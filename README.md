@@ -2,7 +2,7 @@
 
 **Full Stack Developer** · Barcelona
 
-Construyo productos web con foco en UX, identidad visual e integracion con IA.
+Construyo productos web con foco en UX, identidad visual e integración con IA.
 
 ---
 
